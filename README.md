@@ -1,59 +1,102 @@
-# Selam! Ben Pelin 👋
+<div align="center">
 
-Yapay zeka, makine öğrenmesi ve veri bilimi üzerine çalışan bir **Bilgisayar Programcısıyım**. Şu sıralar derin öğrenme modelleri ve veri analitiği projeleri geliştiriyor, teknolojinin sınırlarını keşfetmekten keyif alıyorum.
+# 👩🏻‍💻 Data Analyst • AI & ML Developer
 
----
-
-### 🚀 Hakkımda
-
-- 🎓 Bilgisayar Programcılığı mezunuyum.
-- 💼 Şu anda **Microsoft'ta Yapay Zeka Stajyeri** olarak görev yapıyorum.
-- 🧠 Görüntü işleme (özellikle bulanık görüntülerin tahmini) ve veri odaklı tahmin modelleri üzerinde projeler geliştiriyorum.
-- 🌱 Sürekli olarak İngilizcemi geliştirmeye ve global yapay zeka literatürünü takip etmeye odaklanıyorum.
-
----
-
-### 🛠️ Teknolojiler & Araçlar
-
-<p align="left">
-  <!-- Programlama Dilleri -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/SQL-CC292B?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL" />
-</p>
-
-<p align="left">
-  <!-- Veri Bilimi & Yapay Zeka Eğilimleri -->
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" />
-  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-</p>
-
----
-
-### 📈 Öne Çıkan Projelerim
-
-*   **Bulanık Görüntü Sınıflandırma (CNN):** Derin öğrenme (Convolutional Neural Networks) kullanarak düşük kaliteli veya bulanık görsellerdeki nesneleri tahmin eden uçtan uca bir model projesi.
-*   **Bisiklet Kiralama Analiz & Tahmin Sistemi:** Çeşitli makine öğrenmesi algoritmalarını (XGBoost, Random Forest vb.) karşılaştırarak en doğru kiralama tahminini sunan veri analitiği projesi.
-
----
-
-### 📫 Benimle İletişime Geçin
-
-Yeni fikirleri tartışmayı veya harika projelerde iş birliği yapmayı her zaman isterim!
-
-- 📧 **E-posta:** [pelinssabanci@gmail.com](mailto:pelinssabanci@gmail.com) 
-- 💼 **LinkedIn:** [linkedin.com/in/pelinssabanci](https://linkedin.com/in/pelinssabanci) 
-
----
-
-<p align="center">
-  <i>"Code is like humor. When you have to explain it, it’s bad."</i>
-</p>
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+%26+Machine+Learning;Front-End+Development;Data+Science+Projects;Always+Learning+New+Things+✨" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:1a1b27,50:5b21b6,100:a855f7"/>
+---
 
+# 🌙 About Me
+
+Hello, I am Pelin Su Sabancı.  
+I am a software developer who continuously improves herself in Front-End Development, Data Science, and Artificial Intelligence (AI).
+
+I develop projects in Artificial Intelligence and Machine Learning to improve my technical and analytical skills while creating innovative and effective solutions.
+
+I enjoy building responsive user interfaces, exploring AI technologies, and developing real-world projects.  
+I am open to learning, adaptable to teamwork, and passionate about creating impactful products.
+
+---
+
+# ⚡ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,react,html,css,c,git,github,vscode&theme=dark" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Jupyter-111827?style=for-the-badge&logo=jupyter&logoColor=A855F7"/>
+<img src="https://img.shields.io/badge/Postman-111827?style=for-the-badge&logo=postman&logoColor=A855F7"/>
+
+</div>
+
+---
+
+# 🤖 Interests
+
+```yaml
+Artificial Intelligence
+Machine Learning
+Data Science
+Front-End Development
+Data Analysis
+UI Development
+```
+
+---
+
+# 💼 Experience
+
+### 🚀 AI Innovators Summer Internship — Microsoft
+
+- Working on Artificial Intelligence and Machine Learning technologies
+- Exploring innovative AI solutions and real-world applications
+
+### 💻 Front-End Developer Intern — Koçtaş General Management
+
+- Developed responsive interfaces using HTML, CSS, and JavaScript
+- Participated in web and mobile UI development
+- Collaborated within agile team environments
+
+---
+
+# 🎓 Education
+
+```yaml
+Piri Reis University
+Computer Programming
+2022 - 2025
+```
+
+---
+
+# 🏆 Certificates
+
+- Website Usability — BTK Academy
+- Mastering Applied Data Science
+- Web Development with HTML5 — BTK Academy
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="mailto:pelinssabanci@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-111827?style=for-the-badge&logo=gmail&logoColor=A855F7"/>
+</a>
+
+<a href="https://linkedin.com/in/pelinssabanci">
+<img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=A855F7"/>
+</a>
+
+<a href="https://github.com/pelinssbnc">
+<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=A855F7"/>
+</a>
+
+</div>
+
+---
