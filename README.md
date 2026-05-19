@@ -1,87 +1,54 @@
 <div align="center">
 
-# 👩🏻‍💻 Data Analyst • AI & ML Developer
+# 👩🏻‍💻 Pelin Su Sabancı  
+### Data Analyst • AI & ML Developer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+%26+Machine+Learning;Data+Science+Projects" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning;Data+Science;Always+Learning+✨" />
 
 </div>
 
 ---
 
-# 🌙 About Me
+## 🌙 About Me
 
-Hello, I am Pelin Su Sabancı.  
-I am a software developer who continuously improves herself in Front-End Development, Data Science, and Artificial Intelligence (AI).
+I’m a developer focused on **AI, Machine Learning, and Data Science**.  
+I enjoy turning data and ideas into real, usable products.
 
-I develop projects in Artificial Intelligence and Machine Learning to improve my technical and analytical skills while creating innovative and effective solutions.
+I build projects to improve my skills in:
+- Artificial Intelligence & Machine Learning  
+- Data Science & Analysis  
 
-I enjoy building responsive user interfaces, exploring AI technologies, and developing real-world projects.  
-I am open to learning, adaptable to teamwork, and passionate about creating impactful products.
+Always learning, always building.
 
 ---
 
-# ⚡ Tech Stack
+## ⚡ Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,react,html,css,c,git,github,vscode&theme=dark" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Jupyter-111827?style=for-the-badge&logo=jupyter&logoColor=A855F7"/>
-<img src="https://img.shields.io/badge/Postman-111827?style=for-the-badge&logo=postman&logoColor=A855F7"/>
+<img src="https://skillicons.dev/icons?i=python,react,html,css,git,github,vscode,c&theme=dark" />
 
 </div>
 
 ---
 
-# 🤖 Interests
+## 💼 Experience
 
-```yaml
-Artificial Intelligence
-Machine Learning
-Data Science
-Front-End Development
-Data Analysis
-UI Development
-```
+**🚀 AI Innovators Intern — Microsoft**  
+AI & ML projects, real-world problem solving
+
+**💻 Front-End Intern — Koçtaş**  
+Responsive UI development with HTML, CSS, JS
 
 ---
 
-# 💼 Experience
+## 🎓 Education
 
-### 🚀 AI Innovators Summer Internship — Microsoft
-
-- Working on Artificial Intelligence and Machine Learning technologies
-- Exploring innovative AI solutions and real-world applications
-
-### 💻 Front-End Developer Intern — Koçtaş General Management
-
-- Developed responsive interfaces using HTML, CSS, and JavaScript
-- Participated in web and mobile UI development
-- Collaborated within agile team environments
+Computer Programming — Piri Reis University (2022–2025)
 
 ---
 
-# 🎓 Education
-
-```yaml
-Piri Reis University
-Computer Programming
-2022 - 2025
-```
-
----
-
-# 🏆 Certificates
-
-- Website Usability — BTK Academy
-- Mastering Applied Data Science
-- Web Development with HTML5 — BTK Academy
-
----
-
-# 🌐 Connect With Me
+## 🌐 Connect
 
 <div align="center">
 
@@ -98,5 +65,3 @@ Computer Programming
 </a>
 
 </div>
-
---- 
