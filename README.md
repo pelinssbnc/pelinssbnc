@@ -64,11 +64,5 @@ Computer Programming — Piri Reis University (2022–2025)
 <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=A855F7"/>
 </a>
 
-</div>inkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=A855F7"/>
-</a>
-
-<a href="https://github.com/pelinssbnc">
-<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=A855F7"/>
-</a>
 
 </div>
