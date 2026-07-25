@@ -104,14 +104,9 @@ A Computer Programmer passionate about **Artificial Intelligence, Data Science, 
 ### GitHub Statistics
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td align="center" valign="top">
-        <img src="https://github-readme-stats.vercel.app/api?username=pelinssbnc&show_icons=true&theme=flat&hide_border=true&title_color=0077B5&icon_color=0077B5&text_color=333333&bg_color=ffffff" alt="GitHub Stats" width="400" />
-      </td>
-      <td align="center" valign="top">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pelinssbnc&layout=compact&theme=flat&hide_border=true&title_color=0077B5&icon_color=0077B5&text_color=333333&bg_color=ffffff" alt="Top Languages" width="380" />
-      </td>
-    </tr>
-  </table>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=pelinssbnc&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pelinssbnc&layout=compact&hide_border=true" />
+
 </div>
