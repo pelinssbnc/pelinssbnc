@@ -16,31 +16,60 @@
 ---
 
 ### Professional Summary
-A results-driven Computer Programmer specializing in **Data Analytics and Machine Learning**. Experienced in developing predictive models, analyzing complex datasets, and building responsive user interfaces. Proven ability to deliver technical solutions, demonstrated through hands-on internship experiences at **Microsoft** and **Koçtaş**. Focused on bridging the gap between raw data insights and functional software applications.
+A Computer Programmer passionate about **Artificial Intelligence, Data Science, and Software Development**. Experienced in building machine learning models, developing AI-powered applications, and creating responsive web interfaces. Skilled in transforming raw data into intelligent solutions using modern AI frameworks, data analysis techniques, and full-stack development tools. Continuously learning and developing projects in **LLMs, RAG systems, Computer Vision, and Predictive Analytics**.
 
 ---
 
 ### Technical Expertise
 
-*   **Data Science & AI:** Python, Pandas, NumPy, Scikit-Learn, Predictive Modeling, Data Visualization
-*   **Web & Software Development:** JavaScript, React.js, HTML5, CSS3, C Programming
-*   **Tools & Databases:** Git, GitHub, SQL, VS Code
+* **Artificial Intelligence:** Machine Learning, Deep Learning, LLMs, RAG, Prompt Engineering, AI Agents
+* **Data Science:** Python, Pandas, NumPy, Scikit-Learn, Data Analysis, Data Visualization, Predictive Modeling
+* **Computer Vision:** CNN, Transfer Learning, TensorFlow, Keras, Image Classification
+* **Backend:** FastAPI, REST API
+* **Databases & Vector DB:** SQL, ChromaDB
+* **Web Development:** React.js, JavaScript, HTML5, CSS3
+* **Programming:** Python, JavaScript, C
+* **Tools:** Git, GitHub, VS Code
+
+---
+
+### Featured Projects
+
+#### Multi-Agent RAG Recruitment Assistant
+* AI-powered recruitment assistant built using **LangGraph**, **LangChain**, **Google Gemini**, **FastAPI**, and **ChromaDB**.
+* Performs semantic CV and job description matching using Retrieval-Augmented Generation (RAG).
+* Generates candidate compatibility analysis through multiple specialized AI agents.
+
+#### Machine Learning & Data Science Projects
+* Developed predictive machine learning models using Scikit-Learn and TensorFlow.
+* Performed exploratory data analysis, feature engineering, model evaluation, and visualization.
+* Built classification and regression models for real-world datasets.
+
+#### Computer Vision Projects
+* Trained deep learning models for image classification using CNN and Transfer Learning.
+* Worked with datasets including fruits, rice species, birds, and pneumonia detection.
+* Achieved high classification accuracy through model optimization and fine-tuning.
+
+#### Front-End Web Applications
+* Built responsive React applications with reusable components.
+* Integrated REST APIs and created modern user interfaces focused on usability and performance.
 
 ---
 
 ### Professional Experience
 
 #### **Microsoft** | *AI Innovators Intern*
-*July 2024 — Present*
-* Developed and optimized machine learning models to address real-world business and technical challenges.
-* Collaborated with engineering teams to research and deploy prototype AI solutions.
-* Leveraged Python and data science libraries to preprocess large datasets and extract actionable insights.
+*Jun 2026 — July 2026*
+* Developed AI-powered applications using Python and modern machine learning techniques.
+* Built intelligent workflows leveraging Retrieval-Augmented Generation (RAG) concepts.
+* Worked with LLM-based solutions, data preprocessing, and AI model experimentation.
+* Collaborated on prototype AI systems addressing real-world business challenges.
 
 #### **Koçtaş** | *Front-End Developer Intern*
-*August 2023 — October 2023*
-* Built and maintained responsive, high-performance web interfaces using React.js, JavaScript, and HTML5/CSS3.
-* Collaborated with UX/UI designers to transform design mockups into interactive, pixel-perfect web pages.
-* Debugged and optimized frontend components to improve website performance and cross-browser compatibility.
+*July 2024 — August 2024*
+* Built responsive web applications using React.js, JavaScript, HTML5, and CSS3.
+* Collaborated with designers to implement modern UI/UX designs.
+* Optimized frontend performance and improved cross-browser compatibility.
 
 ---
 
@@ -48,7 +77,27 @@ A results-driven Computer Programmer specializing in **Data Analytics and Machin
 
 #### **Piri Reis University**
 *Associate's Degree in Computer Programming* | *2022 — 2025*
-*   **Key Coursework:** Data Structures & Algorithms, Object-Oriented Programming, Database Management Systems, Web Application Development.
+
+**Relevant Coursework**
+* Data Structures & Algorithms
+* Object-Oriented Programming
+* Database Management Systems
+* Web Application Development
+* Artificial Intelligence Fundamentals
+* Data Analysis
+
+---
+
+### Currently Learning
+
+* Large Language Models (LLMs)
+* Retrieval-Augmented Generation (RAG)
+* LangChain & LangGraph
+* FastAPI
+* AI Agents
+* Vector Databases
+* MLOps Fundamentals
+* Generative AI
 
 ---
 
