@@ -1,97 +1,67 @@
-<div align="center">
-
-# 👩🏻‍💻 Pelin Su Sabancı
-### Data Analyst • AI & ML Developer
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning+Developer;Data+Analyst;Always+Learning+%26+Building+✨" alt="Typing SVG" />
+<h1 align="center">Pelin Su Sabancı</h1>
+<p align="center"><strong>Computer Programmer • Data Analyst • AI & ML Developer</strong></p>
 
 <p align="center">
   <a href="https://linkedin.com/in/pelinssabanci">
-    <img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=A855F7" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:pelinssabanci@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-111827?style=for-the-badge&logo=gmail&logoColor=A855F7" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/pelinssbnc">
-    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=A855F7" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
-</div>
+---
+
+### Professional Summary
+A results-driven Computer Programmer specializing in **Data Analytics and Machine Learning**. Experienced in developing predictive models, analyzing complex datasets, and building responsive user interfaces. Proven ability to deliver technical solutions, demonstrated through hands-on internship experiences at **Microsoft** and **Koçtaş**. Focused on bridging the gap between raw data insights and functional software applications.
 
 ---
 
-## 💫 About Me
+### Technical Expertise
 
-I am a passionate developer focusing on **Data Science, Machine Learning, and Artificial Intelligence**. I love finding patterns in data, building predictive models, and translating complex logic into user-friendly applications.
-
-- 📈 **Data Analysis:** Uncovering insights, cleaning data, and creating interactive visualizations.
-- 🧠 **AI & Machine Learning:** Developing algorithms, training models, and exploring deep learning.
-- 💻 **Software Engineering:** Writing clean, efficient code and designing responsive web interfaces.
-- 🌱 **Always Learning:** Currently refining my skills in advanced machine learning frameworks and data pipelines.
+*   **Data Science & AI:** Python, Pandas, NumPy, Scikit-Learn, Predictive Modeling, Data Visualization
+*   **Web & Software Development:** JavaScript, React.js, HTML5, CSS3, C Programming
+*   **Tools & Databases:** Git, GitHub, SQL, VS Code
 
 ---
 
-## 🛠️ Tech Stack & Toolkit
+### Professional Experience
 
-### 📊 Data Science & AI
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=A855F7" alt="Python" />
-  <img src="https://img.shields.io/badge/Pandas-111827?style=flat-square&logo=pandas&logoColor=A855F7" alt="Pandas" />
-  <img src="https://img.shields.io/badge/NumPy-111827?style=flat-square&logo=numpy&logoColor=A855F7" alt="NumPy" />
-  <img src="https://img.shields.io/badge/scikit--learn-111827?style=flat-square&logo=scikit-learn&logoColor=A855F7" alt="Scikit-Learn" />
-</p>
+#### **Microsoft** | *AI Innovators Intern*
+*July 2024 — Present*
+* Developed and optimized machine learning models to address real-world business and technical challenges.
+* Collaborated with engineering teams to research and deploy prototype AI solutions.
+* Leveraged Python and data science libraries to preprocess large datasets and extract actionable insights.
 
-### 💻 Web Development & Programming
-<p align="left">
-  <img src="https://img.shields.io/badge/React-111827?style=flat-square&logo=react&logoColor=A855F7" alt="React" />
-  <img src="https://img.shields.io/badge/JavaScript-111827?style=flat-square&logo=javascript&logoColor=A855F7" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-111827?style=flat-square&logo=html5&logoColor=A855F7" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-111827?style=flat-square&logo=css3&logoColor=A855F7" alt="CSS3" />
-  <img src="https://img.shields.io/badge/C-111827?style=flat-square&logo=c&logoColor=A855F7" alt="C" />
-</p>
-
-### ⚙️ Tools & DevOps
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-111827?style=flat-square&logo=git&logoColor=A855F7" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-111827?style=flat-square&logo=github&logoColor=A855F7" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS_Code-111827?style=flat-square&logo=visual-studio-code&logoColor=A855F7" alt="VS Code" />
-</p>
+#### **Koçtaş** | *Front-End Developer Intern*
+*August 2023 — October 2023*
+* Built and maintained responsive, high-performance web interfaces using React.js, JavaScript, and HTML5/CSS3.
+* Collaborated with UX/UI designers to transform design mockups into interactive, pixel-perfect web pages.
+* Debugged and optimized frontend components to improve website performance and cross-browser compatibility.
 
 ---
 
-## 💼 Experience
+### Education
 
-### 🚀 Microsoft
-**AI Innovators Intern** | *[Buraya Tarih Aralığı Yazabilirsiniz]*
-- Developed and collaborated on AI & ML projects designed to solve real-world industry problems.
-- Built predictive models and worked with modern machine learning frameworks.
-
-### 💻 Koçtaş
-**Front-End Intern** | *[Buraya Tarih Aralığı Yazabilirsiniz]*
-- Developed responsive, user-friendly UI components using React, HTML5, CSS3, and JavaScript.
-- Collaborated with UX/UI design teams to enhance web application performance and usability.
+#### **Piri Reis University**
+*Associate's Degree in Computer Programming* | *2022 — 2025*
+*   **Key Coursework:** Data Structures & Algorithms, Object-Oriented Programming, Database Management Systems, Web Application Development.
 
 ---
 
-## 🎓 Education
-
-### 🏫 Piri Reis University
-**Associate's Degree in Computer Programming** | *2022 — 2025*
-- Key Coursework: Algorithms & Data Structures, Database Systems, Web Development, Object-Oriented Programming.
-
----
-
-## 📊 GitHub Stats
+### GitHub Statistics
 
 <div align="center">
   <table border="0">
     <tr>
       <td align="center" valign="top">
-        <img src="https://github-readme-stats.vercel.app/api?username=pelinssbnc&show_icons=true&theme=radical&hide_border=true&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF&bg_color=111827" alt="Pelin's GitHub Stats" width="400" />
+        <img src="https://github-readme-stats.vercel.app/api?username=pelinssbnc&show_icons=true&theme=flat&hide_border=true&title_color=0077B5&icon_color=0077B5&text_color=333333&bg_color=ffffff" alt="GitHub Stats" width="400" />
       </td>
       <td align="center" valign="top">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pelinssbnc&layout=compact&theme=radical&hide_border=true&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF&bg_color=111827" alt="Top Languages" width="380" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pelinssbnc&layout=compact&theme=flat&hide_border=true&title_color=0077B5&icon_color=0077B5&text_color=333333&bg_color=ffffff" alt="Top Languages" width="380" />
       </td>
     </tr>
   </table>
