@@ -100,17 +100,3 @@ A Computer Programmer passionate about **Artificial Intelligence, Data Science, 
 * Generative AI
 
 ---
-
-### GitHub Statistics
-<div align="center">
-  <table border="0">
-    <tr>
-      <td align="center" valign="top">
-        <img src="https://github-readme-stats.shion.dev/api?username=pelinssbnc&show_icons=true&theme=flat&hide_border=true&title_color=0077B5&icon_color=0077B5&text_color=333333&bg_color=ffffff" alt="GitHub Stats" width="400" />
-      </td>
-      <td align="center" valign="top">
-        <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=pelinssbnc&layout=compact&theme=flat&hide_border=true&title_color=0077B5&icon_color=0077B5&text_color=333333&bg_color=ffffff" alt="Top Languages" width="380" />
-      </td>
-    </tr>
-  </table>
-</div>
