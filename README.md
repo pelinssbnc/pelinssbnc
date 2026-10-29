@@ -1,3 +1,5 @@
+# Pelin Su Sabancı
+
 <p align="center">
   <strong>AI & Machine Learning Developer | Data Analyst | Computer Programmer</strong>
 </p>
