@@ -1,102 +1,165 @@
-<h1 align="center">Pelin Su Sabancı</h1>
-<p align="center"><strong>Computer Programmer • Data Analyst • AI & ML Developer</strong></p>
+<p align="center">
+  <strong>AI & Machine Learning Developer | Data Analyst | Computer Programmer</strong>
+</p>
 
 <p align="center">
   <a href="https://linkedin.com/in/pelinssabanci">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:pelinssabanci@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/pelinssbnc">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
 ---
 
-### Professional Summary
-A Computer Programmer passionate about **Artificial Intelligence, Data Science, and Software Development**. Experienced in building machine learning models, developing AI-powered applications, and creating responsive web interfaces. Skilled in transforming raw data into intelligent solutions using modern AI frameworks, data analysis techniques, and full-stack development tools. Continuously learning and developing projects in **LLMs, RAG systems, Computer Vision, and Predictive Analytics**.
+## About Me
+
+I'm a Computer Programmer focused on **Artificial Intelligence, Machine Learning, and Data Science**. I enjoy building intelligent applications, developing predictive models, and transforming data into actionable insights.
+
+Through my projects and AI-focused internship experience, I've worked with machine learning pipelines, computer vision, Large Language Models (LLMs), and Retrieval-Augmented Generation (RAG) systems.
+
+I'm particularly interested in developing **AI-powered applications, multi-agent systems, and data-driven solutions** that address real-world problems.
+
+- **Current Focus:** Generative AI, LLMs, RAG, and AI Agents
+- **Core Interests:** Machine Learning, Data Science, and Intelligent Software Systems
+- **Currently Studying:** Management Information Systems at Anadolu University
 
 ---
 
-### Technical Expertise
+## Technical Skills
 
-* **Artificial Intelligence:** Machine Learning, Deep Learning, LLMs, RAG, Prompt Engineering, AI Agents
-* **Data Science:** Python, Pandas, NumPy, Scikit-Learn, Data Analysis, Data Visualization, Predictive Modeling
-* **Computer Vision:** CNN, Transfer Learning, TensorFlow, Keras, Image Classification
-* **Backend:** FastAPI, REST API
-* **Databases & Vector DB:** SQL, ChromaDB
-* **Web Development:** React.js, JavaScript, HTML5, CSS3
-* **Programming:** Python, JavaScript, C
-* **Tools:** Git, GitHub, VS Code
+**AI & Generative AI**
+- Machine Learning, Deep Learning, Generative AI
+- Large Language Models (LLMs), RAG
+- Prompt Engineering, AI Agents, Multi-Agent Systems
+- LangChain, LangGraph, Google Gemini API
 
----
+**Data Science & Analytics**
+- Python, Pandas, NumPy
+- Scikit-learn, Exploratory Data Analysis (EDA)
+- Feature Engineering, Predictive Modeling
+- Data Visualization, Model Evaluation
 
-### Featured Projects
+**Deep Learning & Computer Vision**
+- TensorFlow, Keras, CNN
+- Transfer Learning, Image Classification
 
-#### Multi-Agent RAG Recruitment Assistant
-* AI-powered recruitment assistant built using **LangGraph**, **LangChain**, **Google Gemini**, **FastAPI**, and **ChromaDB**.
-* Performs semantic CV and job description matching using Retrieval-Augmented Generation (RAG).
-* Generates candidate compatibility analysis through multiple specialized AI agents.
+**Backend & Databases**
+- FastAPI, REST APIs
+- SQL, ChromaDB
+- Data Processing and Semantic Search
 
-#### Machine Learning & Data Science Projects
-* Developed predictive machine learning models using Scikit-Learn and TensorFlow.
-* Performed exploratory data analysis, feature engineering, model evaluation, and visualization.
-* Built classification and regression models for real-world datasets.
+**Frontend Development**
+- React.js, JavaScript, TypeScript
+- HTML5, CSS3
+- Responsive Web Design
 
-#### Computer Vision Projects
-* Trained deep learning models for image classification using CNN and Transfer Learning.
-* Worked with datasets including fruits, rice species, birds, and pneumonia detection.
-* Achieved high classification accuracy through model optimization and fine-tuning.
-
-#### Front-End Web Applications
-* Built responsive React applications with reusable components.
-* Integrated REST APIs and created modern user interfaces focused on usability and performance.
+**Tools & Technologies**
+- Git, GitHub, VS Code
+- Jupyter Notebook
 
 ---
 
-### Professional Experience
+## Featured Projects
 
-#### **Microsoft** | *AI Innovators Intern*
-*Jun 2026 — July 2026*
-* Developed AI-powered applications using Python and modern machine learning techniques.
-* Built intelligent workflows leveraging Retrieval-Augmented Generation (RAG) concepts.
-* Worked with LLM-based solutions, data preprocessing, and AI model experimentation.
-* Collaborated on prototype AI systems addressing real-world business challenges.
+### AuraRecruit — Multi-Agent RAG Recruitment Assistant
 
-#### **Koçtaş** | *Front-End Developer Intern*
-*July 2024 — August 2024*
-* Built responsive web applications using React.js, JavaScript, HTML5, and CSS3.
-* Collaborated with designers to implement modern UI/UX designs.
-* Optimized frontend performance and improved cross-browser compatibility.
+An AI-powered recruitment assistant designed to support candidate evaluation by combining semantic retrieval, LLM-based analysis, and multi-agent workflows.
+
+- Developed a RAG pipeline for semantic retrieval of CVs and job descriptions.
+- Designed specialized AI agents for candidate analysis and job requirement evaluation.
+- Integrated LangChain, LangGraph, Google Gemini, FastAPI, and ChromaDB.
+- Focused on structured candidate matching, explainable evaluation, and recruitment decision support.
+
+**Tech Stack:** Python · FastAPI · LangChain · LangGraph · Google Gemini · ChromaDB · React · TypeScript
+
+### Machine Learning & Predictive Analytics
+
+Developed machine learning projects covering classification, regression, recommendation systems, and sentiment analysis.
+
+- Built predictive models using Scikit-learn and TensorFlow.
+- Performed exploratory data analysis, preprocessing, and feature engineering.
+- Evaluated models using appropriate performance metrics.
+- Worked with projects including used car price prediction, health insurance premium prediction, and recommendation systems.
+
+**Tech Stack:** Python · Pandas · NumPy · Scikit-learn · TensorFlow
+
+### Computer Vision & Deep Learning
+
+Built image classification models using CNN architectures and transfer learning.
+
+- Worked with fruit and vegetable, rice, and bird image datasets.
+- Applied VGG16 transfer learning to improve classification performance.
+- Developed a pneumonia detection model using deep learning techniques.
+- Experimented with model training, validation, and performance optimization.
+
+**Tech Stack:** Python · TensorFlow · Keras · CNN · VGG16
+
+### Frontend & Software Development
+
+Developed web applications and software projects focused on functionality, usability, and maintainable code.
+
+- Built responsive interfaces with React and JavaScript.
+- Worked with REST API integration and reusable UI components.
+- Developed projects using Python, Java, and web technologies.
+
+**Tech Stack:** React · JavaScript · TypeScript · HTML5 · CSS3 · Python · Java
 
 ---
 
-### Education
+## Experience
 
-#### **Piri Reis University**
-*Associate's Degree in Computer Programming* | *2022 — 2025*
+### Microsoft — AI Innovators Summer Internship
+**AI Intern | June 2026 – July 2026**
 
-**Relevant Coursework**
-* Data Structures & Algorithms
-* Object-Oriented Programming
-* Database Management Systems
-* Web Application Development
-* Artificial Intelligence Fundamentals
-* Data Analysis
+- Explored AI application development and modern generative AI technologies.
+- Worked with concepts related to LLMs, RAG architectures, and AI-powered workflows.
+- Strengthened practical knowledge of AI development through project-based learning.
+
+### Koçtaş — Front-End Developer Intern
+**July 2024 – August 2024**
+
+- Worked on frontend development using React.js, JavaScript, HTML5, and CSS3.
+- Practiced implementing responsive user interfaces and reusable components.
+- Gained experience with frontend development workflows and web application design.
+
+---
+
+## Education
+
+### Anadolu University
+**Bachelor's Degree in Management Information Systems**  
+Open Education Faculty | 2026 – Present
+
+### Piri Reis University
+**Associate's Degree in Computer Programming**  
+2022 – 2025
+
+Relevant coursework:
+- Data Structures and Algorithms
+- Object-Oriented Programming
+- Database Management Systems
+- Web Application Development
+- Artificial Intelligence Fundamentals
+- Data Analysis
 
 ---
 
-### Currently Learning
+## Currently Exploring
 
-* Large Language Models (LLMs)
-* Retrieval-Augmented Generation (RAG)
-* LangChain & LangGraph
-* FastAPI
-* AI Agents
-* Vector Databases
-* MLOps Fundamentals
-* Generative AI
+- Generative AI and LLM Application Development
+- Advanced RAG Architectures
+- Multi-Agent Systems with LangGraph
+- Vector Databases and Semantic Retrieval
+- Model Evaluation and AI Reliability
+- MLOps and AI Application Deployment
 
 ---
+
+<p align="center">
+  <i>Building practical AI solutions, one project at a time.</i>
+</p>
