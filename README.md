@@ -1,7 +1,6 @@
 <div align="center">
 
 # Pelin Su Sabancı
-
 **AI & Machine Learning Developer · Data Analyst · Computer Programmer**
 
 *Building practical AI solutions, one project at a time.*
