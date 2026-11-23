@@ -1,6 +1,9 @@
 <p align="center">
 
-  <a href="https://github.com/pelinssbnc"><img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0A0A0A,100:A21517&height=210&section=header&text=Pelin%20Su%20Sabanc%C4%B1&fontSize=62&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Machine%20Learning%20Developer&descSize=22&descAlignY=64" width="100%" alt="Pelin Su Sabancı, AI and Machine Learning Developer" /></a>
+  <div align="center">
+  <h1>Pelin Su Sabancı</h1>
+  <p><b>AI & Machine Learning Developer</b></p>
+</div>
 
   <img src="https://readme-typing-svg.demolab.com?font=VT323&size=30&duration=2200&pause=1800&color=E5EE4E&background=0A0A0A&center=true&vCenter=true&width=854&height=64&lines=%3E+machine+learning+and+data+science.;%3E+LLMs%2C+RAG%2C+and+multi-agent+systems.;%3E+AI+Developer+Intern+%40+Barfasta." width="100%" alt="machine learning, RAG, and multi-agent systems" />
 
