@@ -5,11 +5,23 @@
 <b>AI & Machine Learning Developer</b><br />
 <sub>LLM uygulamaları, RAG ve çok ajanlı sistemler geliştiriyorum.</sub>
 
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=30&duration=2200&pause=1500&color=E5EE4E&background=0A0A0A&center=true&vCenter=true&width=854&height=64&lines=%3E+hello%2C+world.+i%27m+Pelin.;%3E+building+with+LLMs%2C+RAG+%26+multi-agent+systems.;%3E+turning+data+into+predictions.;%3E+AI+Developer+Intern+%40+Barfasta." width="100%" alt="hello world, I'm Pelin. Building with LLMs, RAG and multi-agent systems." />
+<img
+  src="https://readme-typing-svg.demolab.com?font=VT323&size=30&duration=2200&pause=1500&color=E5EE4E&background=0A0A0A&center=true&vCenter=true&width=854&height=64&lines=%3E+hello%2C+world.+i%27m+Pelin.;%3E+building+with+LLMs%2C+RAG+%26+multi-agent+systems.;%3E+turning+data+into+predictions.;%3E+AI+Developer+Intern+%40+Barfasta."
+  width="100%"
+  alt="hello world, I'm Pelin. Building with LLMs, RAG and multi-agent systems."
+/>
 
-<a href="https://www.linkedin.com/in/pelinssabanci"><img src="https://img.shields.io/badge/LinkedIn-A21517?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://github.com/pelinssbnc"><img src="https://img.shields.io/badge/GitHub-A21517?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="mailto:pelinssabanci@gmail.com"><img src="https://img.shields.io/badge/Email-A21517?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/pelinssabanci">
+  <img src="https://img.shields.io/badge/LinkedIn-A21517?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://github.com/pelinssbnc">
+  <img src="https://img.shields.io/badge/GitHub-A21517?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="mailto:pelinssabanci@gmail.com">
+  <img src="https://img.shields.io/badge/Email-A21517?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
+<br /><br />
 
 <img src="https://img.shields.io/badge/ML-predictive_models-ECBDD8?style=for-the-badge&labelColor=0A0A0A" alt="Machine learning, predictive models" />
 <img src="https://img.shields.io/badge/RAG-multi--agent-ECBDD8?style=for-the-badge&labelColor=0A0A0A" alt="RAG and multi-agent systems" />
@@ -23,16 +35,16 @@ Hi! I'm a computer programmer who likes making AI useful in the real world: mach
 
 ```python
 class Pelin:
-    role     = "AI & Machine Learning Developer"
-    now      = "AI Developer Intern @ Barfasta"
-    studies  = "Management Information Systems @ Anadolu University"
-    degree   = "Computer Programming @ Piri Reis University"
-    builds   = ["RAG pipelines", "multi-agent systems", "predictive models", "CNN classifiers"]
+    role    = "AI & Machine Learning Developer"
+    now     = "AI Developer Intern @ Barfasta"
+    studies = "Management Information Systems @ Anadolu University"
+    degree  = "Computer Programming @ Piri Reis University"
+    builds  = ["RAG pipelines", "multi-agent systems", "predictive models", "CNN classifiers"]
 
-    def ask_me_about(self):
+    def ask_me_about(self) -> list[str]:
         return ["RAG", "agents", "LLM evaluation", "computer vision", "scikit-learn"]
 
-    def ship(self):
+    def ship(self) -> str:
         return "practical software that actually works"
 ```
 
@@ -76,9 +88,7 @@ flowchart LR
     E --> F[Ranked candidates]
 ```
 
-`Python` `FastAPI` `LangChain` `LangGraph` `Gemini API` `ChromaDB` `React` `TypeScript`
-
-<br />
+`Python` · `FastAPI` · `LangChain` · `LangGraph` · `Gemini API` · `ChromaDB` · `React` · `TypeScript`
 
 <table>
 <tr>
@@ -89,7 +99,7 @@ flowchart LR
 
 Data preprocessing, feature engineering, regression, classification, and model evaluation.
 
-`Python` `Scikit-learn` `Pandas` `NumPy`
+`Python` · `Scikit-learn` · `Pandas` · `NumPy`
 
 </td>
 <td width="33%" valign="top">
@@ -99,7 +109,7 @@ Data preprocessing, feature engineering, regression, classification, and model e
 
 CNN architectures with transfer learning, built with TensorFlow and Keras.
 
-`TensorFlow` `Keras` `CNN`
+`TensorFlow` · `Keras` · `CNN`
 
 </td>
 <td width="33%" valign="top">
@@ -109,7 +119,7 @@ CNN architectures with transfer learning, built with TensorFlow and Keras.
 
 Interfaces and full-stack apps with React, JavaScript, TypeScript, and modern web tooling.
 
-`React` `JavaScript` `TypeScript`
+`React` · `JavaScript` · `TypeScript`
 
 </td>
 </tr>
@@ -119,9 +129,9 @@ Interfaces and full-stack apps with React, JavaScript, TypeScript, and modern we
 
 | Role | What I do |
 | --- | --- |
-| **AI Developer Intern**<br><sub>Barfasta · November 2026 – Present</sub> | Test AI systems and evaluate their performance. Improve system behavior through testing and iteration. |
-| **AI Innovators Summer Intern**<br><sub>Microsoft · June 2026 – July 2026</sub> | Worked with generative AI, LLMs, and RAG architectures. Built AI-powered applications and workflows. |
-| **Frontend Developer Intern**<br><sub>Koçtaş · July 2024 – August 2024</sub> | Built responsive interfaces with React and JavaScript. Created reusable components. |
+| **AI Developer Intern**<br><sub>Barfasta · Nov 2026 – Present</sub> | Test AI systems and evaluate their performance. Improve system behavior through testing and iteration. |
+| **AI Innovators Summer Intern**<br><sub>Microsoft · Jun – Jul 2026</sub> | Worked with generative AI, LLMs, and RAG architectures. Built AI-powered applications and workflows. |
+| **Frontend Developer Intern**<br><sub>Koçtaş · Jul – Aug 2024</sub> | Built responsive interfaces with React and JavaScript. Created reusable components. |
 
 ## 🎓 education
 
@@ -145,8 +155,16 @@ Interfaces and full-stack apps with React, JavaScript, TypeScript, and modern we
 Working on generative AI, RAG, or multi-agent systems? Let's compare notes.
 
 <p align="center">
-  <a href="mailto:pelinssabanci@gmail.com"><img src="https://img.shields.io/badge/say_hi-A21517?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me" /></a>
-  <a href="https://www.linkedin.com/in/pelinssabanci"><img src="https://img.shields.io/badge/connect_on_LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
+  <a href="mailto:pelinssabanci@gmail.com">
+    <img src="https://img.shields.io/badge/say_hi-A21517?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me" />
+  </a>
+  <a href="https://www.linkedin.com/in/pelinssabanci">
+    <img src="https://img.shields.io/badge/connect_on_LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+  </a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:A21517,100:0A0A0A&height=80&section=footer&text=practical%20software%20%C2%B7%20AI%20applications&fontSize=26&fontColor=FFFFFF&fontAlignY=55" width="100%" alt="practical software, AI applications" />
+<img
+  src="https://capsule-render.vercel.app/api?type=rounded&color=0:A21517,100:0A0A0A&height=80&section=footer&text=practical%20software%20%C2%B7%20AI%20applications&fontSize=26&fontColor=FFFFFF&fontAlignY=55"
+  width="100%"
+  alt="practical software, AI applications"
+/>
